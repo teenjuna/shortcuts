@@ -10,4 +10,4 @@ v.unwrap(); // too long to type
 v.un();     // perfection
 ```
 
-See the [documentation](https://docs.rs/sqlx/latest/shortcuts).
+See the [documentation](https://docs.rs/shortcuts).
