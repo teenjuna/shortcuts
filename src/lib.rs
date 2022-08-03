@@ -10,6 +10,8 @@
 //! v.un();     // perfection
 //! ```
 
+/// Shortcuts for [core::convert].
+pub mod convert;
 /// Shortcuts for [core::option].
 pub mod option;
 /// All the shortcuts you need in one place!
