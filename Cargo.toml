@@ -2,7 +2,13 @@
 name = "shortcuts"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+authors = ["Alex Ryapolov <ryapolov@pm.me>"]
+license = "Unlicense"
+description = "A crate with shortcuts for popular methods of popular types that allow you to write your blazingly fast code blazingly fast"
+documentation = "https://docs.rs/shortcuts"
+readme = "README.md"
+repository = "https://github.com/teenjuna/shortcuts"
+keywords = ["traits", "fast", "shortcuts"]
+categories = ["development-tools"]
 
 [dependencies]
